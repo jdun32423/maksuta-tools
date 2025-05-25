@@ -1,0 +1,7 @@
+Faker
+phonenumbers
+pyfiglet
+pystyle
+validators
+cryptography
+pycryptodome
